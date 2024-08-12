@@ -1,0 +1,102 @@
+body {
+  text-align: center;
+  min-height: 100vh;
+  min-width: 100vh;
+  align-items: center;
+  background-color: #291931;
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.actions button{
+  padding: 8px 16px;
+  font-size: 30px;
+  border-radius: 10px;
+  background-color: #27ae60;
+  color: #fff;
+}
+
+.grid-container {
+  display: grid;
+  justify-content: center;
+  grid-gap: 16px;
+  grid-template-columns: repeat(6, 140px);
+  /* ratio of cards are 2:3 */
+  grid-template-rows: repeat(3, calc(140px / 2 * 3));
+}
+
+.card {
+  height: calc(140px * 3 / 2);
+  width: 140px;
+  /* rounds the corners? */
+  border-radius: 10px; 
+  background-color: #fff;
+  position: relative;
+  /* gives nice 3d effect to flip effect */
+  transform-style: preserve-3d;
+  /* describes smoothness of transformations */
+  transition: all 0.5s ease-in-out;
+}
+
+.blackjack-front-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50%;
+  width: 60px;
+  height: 60px;
+}
+
+.flipped {
+  transform: rotateY(180deg);
+}
+
+.front {
+  /* hides other side of card */
+  backface-visibility: hidden;
+  position: absolute;
+  border-radius: 10px;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.back {
+  /* hides other side of card */
+  backface-visibility: hidden;
+  position: absolute;
+  border-radius: 10px;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('../assets/pattern.png');
+  background-position: center center;
+  background-size: cover;
+}
+
+.card-front {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotateY(180deg);
+  backface-visibility: hidden;
+}
+
+.card-back {
+  backface-visibility: hidden;
+}
+
+

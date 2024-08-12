@@ -1,0 +1,210 @@
+[
+  {
+      "image": "../assets/A-C.png", 
+      "name": "A-C"
+  },
+  {
+      "image": "../assets/A-D.png",
+      "name": "A-D"
+  },
+  {
+      "image": "../assets/A-H.png",
+      "name": "A-H"
+  },
+  {
+      "image": "../assets/A-S.png",
+      "name": "A-S"
+  },
+  {
+      "image": "../assets/2-C.png", 
+      "name": "2-C"
+  },
+  {
+      "image": "../assets/2-D.png",
+      "name": "2-D"
+  },
+  {
+      "image": "../assets/2-H.png",
+      "name": "2-H"
+  },
+  {
+      "image": "../assets/2-S.png",
+      "name": "2-S"
+  },
+  {
+      "image": "../assets/3-C.png", 
+      "name": "3-C"
+  },
+  {
+      "image": "../assets/3-D.png",
+      "name": "3-D"
+  },
+  {
+      "image": "../assets/3-H.png",
+      "name": "3-H"
+  },
+  {
+      "image": "../assets/3-S.png",
+      "name": "3-S"
+  },
+  {
+      "image": "../assets/4-C.png", 
+      "name": "4-C"
+  },
+  {
+      "image": "../assets/4-D.png",
+      "name": "4-D"
+  },
+  {
+      "image": "../assets/4-H.png",
+      "name": "4-H"
+  },
+  {
+      "image": "../assets/4-S.png",
+      "name": "4-S"
+  },
+  {
+      "image": "../assets/5-C.png", 
+      "name": "5-C"
+  },
+  {
+      "image": "../assets/5-D.png",
+      "name": "5-D"
+  },
+  {
+      "image": "../assets/5-H.png",
+      "name": "5-H"
+  },
+  {
+      "image": "../assets/5-S.png",
+      "name": "5-S"
+  },
+  {
+      "image": "../assets/6-C.png", 
+      "name": "6-C"
+  },
+  {
+      "image": "../assets/6-D.png",
+      "name": "6-D"
+  },
+  {
+      "image": "../assets/6-H.png",
+      "name": "6-H"
+  },
+  {
+      "image": "../assets/6-S.png",
+      "name": "6-S"
+  },
+  {
+      "image": "../assets/7-C.png", 
+      "name": "7-C"
+  },
+  {
+      "image": "../assets/7-D.png",
+      "name": "7-D"
+  },
+  {
+      "image": "../assets/7-H.png",
+      "name": "7-H"
+  },
+  {
+      "image": "../assets/7-S.png",
+      "name": "7-S"
+  },
+  {
+      "image": "../assets/8-C.png", 
+      "name": "8-C"
+  },
+  {
+      "image": "../assets/8-D.png",
+      "name": "8-D"
+  },
+  {
+      "image": "../assets/8-H.png",
+      "name": "8-H"
+  },
+  {
+      "image": "../assets/8-S.png",
+      "name": "8-S"
+  },
+  {
+      "image": "../assets/9-C.png", 
+      "name": "9-C"
+  },
+  {
+      "image": "../assets/9-D.png",
+      "name": "9-D"
+  },
+  {
+    "image": "../assets/9-H.png",
+    "name": "9-H"
+  },
+  {
+    "image": "../assets/9-S.png",
+    "name": "9-S"
+  },
+  {
+    "image": "../assets/10-C.png", 
+    "name": "10-C"
+  },
+  {
+    "image": "../assets/10-D.png",
+    "name": "10-D"
+  },
+  {
+    "image": "../assets/10-H.png",
+    "name": "10-H"
+  },
+  {
+    "image": "../assets/10-S.png",
+    "name": "10-S"
+  },
+  {
+    "image": "../assets/J-C.png", 
+    "name": "J-C"
+  },
+  {
+    "image": "../assets/J-D.png",
+    "name": "J-D"
+  },
+  {
+    "image": "../assets/J-H.png",
+    "name": "J-H"
+  },
+  {
+    "image": "../assets/J-S.png",
+    "name": "J-S"
+  },
+  {
+    "image": "../assets/Q-C.png", 
+    "name": "Q-C"
+  },
+  {
+    "image": "../assets/Q-D.png",
+    "name": "Q-D"
+  },
+  {
+    "image": "../assets/Q-H.png",
+    "name": "Q-H"
+  },
+  {
+    "image": "../assets/Q-S.png",
+    "name": "Q-S"
+  },
+  {
+    "image": "../assets/K-C.png", 
+    "name": "K-C"
+  },
+  {
+    "image": "../assets/K-D.png",
+    "name": "K-D"
+  },
+  {
+    "image": "../assets/K-H.png",
+    "name": "K-H"
+  },
+  {
+    "image": "../assets/K-S.png",
+    "name": "K-S"
+  }
+]
