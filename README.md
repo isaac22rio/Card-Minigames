@@ -7,12 +7,11 @@ The project is designed to be lightweight, responsive, and easily extendable.
 # How to Run the Project
 Clone the repository:
 
-Copy code
-git clone https://github.com/yourusername/minigames.git
+Copy code:<br/>
+git clone https://github.com/yourusername/minigames.git<br/>
 Navigate to the project directory:
-
-Copy code
-cd minigames
-Open the index.html file in your preferred web browser to access the main menu.
+Copy code:<br/>
+cd minigames<br/>
+Open the index.html file in your preferred web browser to access the main menu.<br/>
 
 Select either "Blackjack" or "Memory Game" and have fun!
